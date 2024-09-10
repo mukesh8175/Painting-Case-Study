@@ -25,7 +25,7 @@ The project aims to answer the following questions:
 ## Technologies Used
 - **SQL Server**: To manage and query the painting collection data.
 - **Power BI**: For visualizing insights and creating interactive reports.
-- **Python (Optional)**: For advanced data processing and visualization.
+- **Python **: For upload table in sql Server
 
 ## Features
 - Database schema design to organize data efficiently across seven tables.
